@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<language>en</language>
+	<site_name>Old Software Collection Running Guide</site_name>
+	<stylesheet_name>OldSchoolDocs</stylesheet_name>
+
+	<introduction>
+		<text>Welcome to the Old Software Collection Running Guide!</text>
+		<text><![CDATA[Here you can find guides for running each program in the collection, or... you can open the <strong><a href=".htmldata/pages/template.html">Template Guide</a></strong> for reference.]]></text>
+	</introduction>
+
+	<guides>
+		<category name="Generic" id="generic" directory="generic">
+			<entry>
+				<name>Template guide</name>
+				<filename>template</filename>
+				<status>Complete</status>
+				<completeness>100%</completeness>
+			</entry>
+		</category>
+
+		<category name="Microsoft Word" id="ms-word">
+		</category>
+
+		<category name="Microsoft Works" id="ms-works">
+		</category>
+
+		<category name="WordPerfect" id="wordperfect">
+		</category>
+	</guides>
+</content>
