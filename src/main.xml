@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content>
 	<language>en</language>
-	<site_name>Old Software Collection Running Guide</site_name>
-	<stylesheet_name>OldSchoolDocs</stylesheet_name>
+	<site_name>Old Software Knowledge Base</site_name>
+	<stylesheet_name>OldschoolDocs</stylesheet_name>
 
 	<introduction>
 		<text>Welcome to the Old Software Collection Running Guide!</text>
