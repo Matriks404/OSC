@@ -10,39 +10,39 @@
 	</introduction>
 
 	<guides>
-		<category name="Generic" id="generic" directory="generic">
-			<entry name="Template guide" filename="template" status="Complete" completeness="100%"></entry>
+		<category id="generic" name="Generic">
+			<entry id="template" name="Template guide" status="Complete" completeness="100%"></entry>
 		</category>
 
-		<category name="Microsoft Word" id="ms-word">
-			<entry name="Word Beta X1.06 for DOS" filename="word-beta-x1-06-for-dos" status="Incomplete" completeness="5%"></entry>
-			<entry name="Word 1.15 for DOS" filename="word-1-15-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 1.00 for Macintosh" filename="word-1-00-for-macintosh" status="Not started" completeness="0%"></entry>
-			<entry name="Word 1.05 for Macintosh" filename="word-1-05-for-macintosh" status="Not started" completeness="0%"></entry>
-			<entry name="Write 1.00 for Atari ST" filename="write-1-00-for-atari-st" status="Not started" completeness="0%"></entry>
-			<entry name="Word 2.0 for DOS" filename="word-2-0-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 2.0N for DOS" filename="word-2-0n-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 3.0 for DOS" filename="word-3-0-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 3.0N for DOS" filename="word-3-0n-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 3.00 for Macintosh" filename="word-3-00-for-macintosh" status="Not started" completeness="0%"></entry>
-			<entry name="Word 3.01 for Macintosh" filename="word-3-01-for-macintosh" status="Not started" completeness="0%"></entry>
-			<entry name="Word 3.02 for Macintosh" filename="word-3-02-for-macintosh" status="Not started" completeness="0%"></entry>
-			<entry name="Word 3.1 for DOS" filename="word-3-1-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 4.0 for DOS" filename="word-4-0-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 4.0N for DOS" filename="word-4-0n-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 5.0 for DOS" filename="word-5-0-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 5.0A for DOS" filename="word-5-0a-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 5.5 for DOS" filename="word-5-5-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 5.5B for DOS" filename="word-5-5b-for-dos" status="Not started" completeness="0%"></entry>
-			<entry name="Word 6.0 for DOS" filename="word-6-0-for-dos" status="Not started" completeness="0%"></entry>
+		<category id="ms-word" name="Microsoft Word">
+			<entry id="word-beta-x1-06-for-dos" name="Word Beta X1.06 for DOS" status="Incomplete" completeness="5%"></entry>
+			<entry id="word-1-15-for-dos" name="Word 1.15 for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-1-00-for-macintosh" name="Word 1.00 for Macintosh" status="Not started" completeness="0%"></entry>
+			<entry id="word-1-05-for-macintosh" name="Word 1.05 for Macintosh" status="Not started" completeness="0%"></entry>
+			<entry id="write-1-00-for-atari-st" name="Write 1.00 for Atari ST" status="Not started" completeness="0%"></entry>
+			<entry id="word-2-0-for-dos" name="Word 2.0 for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-2-0n-for-dos" name="Word 2.0N for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-3-0-for-dos" name="Word 3.0 for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-3-0n-for-dos" name="Word 3.0N for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-3-00-for-macintosh" name="Word 3.00 for Macintosh" status="Not started" completeness="0%"></entry>
+			<entry id="word-3-01-for-macintosh" name="Word 3.01 for Macintosh" status="Not started" completeness="0%"></entry>
+			<entry id="word-3-02-for-macintosh" name="Word 3.02 for Macintosh" status="Not started" completeness="0%"></entry>
+			<entry id="word-3-1-for-dos" name="Word 3.1 for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-4-0-for-dos" name="Word 4.0 for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-4-0n-for-dos" name="Word 4.0N for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-5-0-for-dos" name="Word 5.0 for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-5-0a-for-dos" name="Word 5.0A for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-5-5-for-dos" name="Word 5.5 for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-5-5b-for-dos" name="Word 5.5B for DOS" status="Not started" completeness="0%"></entry>
+			<entry id="word-6-0-for-dos" name="Word 6.0 for DOS" status="Not started" completeness="0%"></entry>
 		</category>
 
-		<category name="Microsoft Works" id="ms-works">
-			<entry name="Works 3.0 for DOS" filename="works-3-0-for-dos" status="Not started" completeness="0%"></entry>
+		<category id="ms-works" name="Microsoft Works">
+			<entry id="works-3-0-for-dos" name="Works 3.0 for DOS" status="Not started" completeness="0%"></entry>
 		</category>
 
-		<category name="WordPerfect" id="wordperfect">
-			<entry name="WordPerfect 5.1 for DOS" filename="wordperfect-5-1-for-dos" status="Not started" completeness="0%"></entry>
+		<category id="wordperfect" name="WordPerfect">
+			<entry id="wordperfect-5-1-for-dos" name="WordPerfect 5.1 for DOS" status="Not started" completeness="0%"></entry>
 		</category>
 	</guides>
 </content>
