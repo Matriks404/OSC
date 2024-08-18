@@ -1,7 +1,7 @@
 # OSKB
 **Old Software Knowledge Base** is a project to catalogue and create guides for old software, such as word processors or operating systems.
 
-Currently you can browse existing guides [here](https://matriks404.github.io/OSC).
+Currently you can browse existing guides [here](https://matriks404.github.io/OSKB).
 
 ## Running locally
 
